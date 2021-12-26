@@ -1,1 +1,0 @@
-# navata.github.io
