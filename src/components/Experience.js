@@ -13,7 +13,6 @@ const Experience = ({ item }) => {
                 <div class="list-group">
                     {projects.map((project, index) => (
                         <a
-                            href="#"
                             class="list-group-item list-group-item-action"
                             aria-current="true"
                         >

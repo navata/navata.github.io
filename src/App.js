@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import me from "./me.jpg";
 import mycv from "./mycv.pdf";
 import "./App.css";
@@ -45,12 +44,12 @@ function App() {
                                     >
                                         Download CV
                                     </a>
-                                    <a
+                                    {/* <a
                                         className="btn btn-success shadow-sm mt-1 rounded-pill"
                                         href="#contact"
                                     >
                                         Hire Me
-                                    </a>
+                                    </a> */}
                                 </div>
                             </div>
                         </div>

@@ -7,7 +7,7 @@ export const myInfo = {
         address: "1002 Ta Quang Buu Street, Ward 6, District 8, HCM City",
         birthday: "22-05-1992",
         description:
-            "Hi! I'm Thai Van Nguyen and my nickname is NaVaTa. I am passionate about Mobile and Web Developer. I am a skilled Front-end and Back-end Developer.",
+            "Hi! I'm Thai Van Nguyen and my nickname is NaVaTa. I am a skilled Front-end and Back-end Developer. With more than 6 years experience, I try to use my skill to create products that are useful and valuable.",
     },
     education: {
         school: "Vietnam National University HCM City - University of Information Technology",
@@ -67,7 +67,7 @@ export const myInfo = {
                 {
                     name: "Android application for English language learners.",
                     languages: "Java Android, Facebook SDK",
-                    time: "2 months",
+                    time: "3 months",
                     dateTime: "06/2014 - 08/2014",
                 },
             ],
@@ -80,12 +80,12 @@ export const myInfo = {
                     name: "Android application for document editor and uploader with client VPBank.",
                     languages: "Java Android, Java JSP.",
                     time: "6 months",
-                    dateTime: "01/2015 - 07/2015",
+                    dateTime: "01/2015 - 06/2015",
                 },
                 {
                     name: "Website Monitoring for project management process",
                     languages: "Java Android, Java JSP.",
-                    time: "5 months",
+                    time: "6 months",
                     dateTime: "07/2015 - 12/2015",
                 },
             ],
@@ -98,7 +98,7 @@ export const myInfo = {
                     name: "Website MIS for management paper sale and purchase.",
                     languages:
                         " PHP (Framework CakePHP), HTML, CSS, JavaScript (JQuery).",
-                    time: "8 months",
+                    time: "9 months",
                     dateTime: "12/2015 - 08/2016",
                 },
                 {
@@ -106,14 +106,14 @@ export const myInfo = {
                     languages:
                         "PHP (Framework CakePHP), HTML, CSS, JavaScript (JQuery).",
                     time: "4 months",
-                    dateTime: "08/2016 - 12/2016",
+                    dateTime: "09/2016 - 12/2016",
                 },
                 {
                     name: "Website about Health Advice (ODC for NEOLAB company).",
                     languages:
                         "Ruby (Ruby on Rails), HTML, CSS, JavaScript (Jquery).",
-                    time: "4 months",
-                    dateTime: "12/2016 - 04/2017",
+                    time: "5 months",
+                    dateTime: "01/2017 - 04/2017",
                 },
             ],
         },
@@ -124,59 +124,59 @@ export const myInfo = {
                 {
                     name: "Website Hanbiro Groupware (Maintenance and update function for Profile, Contact, Board ... menu)",
                     languages: "CodeIgniter, AngularJS, HTML, CSS, PostgreSQL.",
-                    time: "3 months",
+                    time: "4 months",
                     dateTime: "04/2017 - 07/2017",
                 },
                 {
                     name: "HRMMobile about implementing function of all menus from Hanbiro Groupware website",
                     languages: "React Native, ReactJS, Javascript.",
                     time: "12 months",
-                    dateTime: "07/2017 - 07/2018",
+                    dateTime: "08/2017 - 07/2018",
                 },
                 {
                     name: "Emart Ecommerce mobile.",
                     languages: "React Native, ReactJS, Javascript.",
                     time: "10 months",
-                    dateTime: "07/2018 - 04/2019",
+                    dateTime: "08/2018 - 04/2019",
                 },
                 {
                     name: "Hanbiro Mail mobile",
                     languages: "React Native, ReactJS, Javascript.",
-                    time: "6 months",
-                    dateTime: "04/2019 - 11/2019",
+                    time: "7 months",
+                    dateTime: "05/2019 - 11/2019",
                 },
                 {
                     name: "Website Hanbiro Groupware and Habiro Hybrid App (Maintenance and try to integrate Napas and Momo payment)",
                     languages: "CodeIgniter, AngularJS, HTML, CSS, PostgreSQL.",
-                    time: "3 months",
-                    dateTime: "11/2019 - 03/2020",
+                    time: "4 months",
+                    dateTime: "12/2019 - 03/2020",
                 },
                 {
                     name: "Hanbiro Talk Chat (Support implement UI)",
                     languages: "CodeIgniter, AngularJS, HTML, CSS, PostgreSQL.",
                     time: "1 month",
-                    dateTime: "03/2020 - 04/2020",
+                    dateTime: "04/2020 - 04/2020",
                 },
                 {
                     name: "Website Hanbiro HR",
                     languages:
                         "Laravel, ReactJS, JavaScript, HTML, CSS, SCSS, PostgreSQL.",
                     time: "3 months",
-                    dateTime: "04/2020 - 07/2020",
+                    dateTime: "05/2020 - 07/2020",
                 },
                 {
                     name: "Website Co-Manage about managing tasks",
                     languages:
                         "Laravel, ReactJS, JavaScript, HTML, CSS, SCSS, PostgreSQL.",
                     time: "6 months",
-                    dateTime: "07/2020 - 01/2021",
+                    dateTime: "08/2020 - 01/2021",
                 },
                 {
                     name: "Website Hanbiro CRM",
                     languages:
                         "ReactJS, JavaScript, HTML, CSS, SCSS (Golang research), MongoDB.",
-                    time: "11 months",
-                    dateTime: "01/2021 - Present",
+                    time: "More than 11 months",
+                    dateTime: "02/2021 - Present",
                 },
             ],
         },
@@ -187,14 +187,14 @@ export const myInfo = {
                 {
                     name: "Mazi App for UI Kit on Envato market",
                     languages: "React Native, ReactJS, Javascript.",
-                    time: "More 1 year",
+                    time: "More than 1 year",
                     dateTime: "01/2020 - Present",
                 },
                 {
                     name: "Website News",
                     languages:
                         "NextJS, ReactJS, NodeJS, HTML, CSS, SCSS, MongoDB.",
-                    time: "More 4 year",
+                    time: "More than 4 months",
                     dateTime: "08/2021 - Present",
                 },
             ],
