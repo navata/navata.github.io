@@ -78,14 +78,14 @@ function App() {
                                             {info.email}
                                         </div>
                                     </div>
-                                    <div className="col-sm-4">
+                                    {/* <div className="col-sm-4">
                                         <div className="pb-1">Phone</div>
                                     </div>
                                     <div className="col-sm-8">
                                         <div className="pb-1 text-secondary">
                                             {info.phone}
                                         </div>
-                                    </div>
+                                    </div> */}
                                     <div className="col-sm-4">
                                         <div className="pb-1">Address</div>
                                     </div>
